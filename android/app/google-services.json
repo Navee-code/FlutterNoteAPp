@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710617800269",
+    "project_id": "notetask-28eb1",
+    "storage_bucket": "notetask-28eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710617800269:android:94339195d9289f265bc604",
+        "android_client_info": {
+          "package_name": "com.example.note_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsn5VIpr9ZRhPdhiEV4721BKO9u6_hVJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
